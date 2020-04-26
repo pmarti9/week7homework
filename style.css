@@ -1,5 +1,7 @@
-#fullnavbar {
-    position:fixed;
+
+img {
+   max-width: 350px;
+   max-height: 350px;
 }
 body {
     background-color: black;
@@ -17,11 +19,11 @@ footer {
 .proj1img {
     width: 75%;
 }
-@media screen and (max-width: 768px){
+/* @media screen and (max-width: 768px){
 body {
     background-color: darkred;
-    color: white;
-};
+    color: black;
+}; */
 /* .jumbotron{
     background-color: black;
 };
